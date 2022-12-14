@@ -1,0 +1,133 @@
+*{
+    font-family: 'Roboto Slab', serif;
+}
+/* LOGIN */
+
+#config1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#config2{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.login{
+    color: #ff900f;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.fintech{
+    font-size: 40px;
+}
+
+.entrar{
+    background-color: #ff900f;
+    color: black;
+    border-radius: 10px;
+    width: 266px;
+    text-decoration: none;
+}
+.ajuste {
+    padding: 0 14px;
+}
+.esqueciSenha{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+    background-color: white;
+}
+
+.criarConta {
+    color: #ff900f;
+    border-radius: 0;
+}
+
+.campo{
+    background-color: #828282;
+    color: #828282;
+}
+/* INÍCIO */
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+.lista{
+    border-radius: 15px;
+    border-width: 1px;
+    border-style:solid;
+    border-color: black;
+
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+
+    width: 304px;
+    height: 29px;
+    background-color: #D9D9D9;
+    border:none;
+}
+
+.home{
+    background-color: #666360;
+    width: 50px;
+    height: 50px;
+    color: black;
+    border-radius: 50px;
+    margin: 9px 0 0 0px;
+}
+ .inicio{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #666360;
+    color: #ff900f;
+    border-radius: 15px;
+    width: 304px;
+    height: 50px;
+    margin: 9px 0 0 0px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+
+ }
+ .grafico{
+    display: flex;
+    justify-content: center;
+    margin: 80px 10px 20px 10px;
+}
+
+ .botaoFinal {
+    width: 141px;
+    height: 44px;
+    border-radius: 5px;
+    margin: 10px 24px;
+    background: #4F4F4F;
+    border-radius: 5px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #FF9000;
+ }
+
+ 
